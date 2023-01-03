@@ -11,7 +11,7 @@
     margin: auto;
     height: 1000px;
     background-size: cover;
-    background-image: url(./css/images/combo\ 2.jpg)
+    background-image: url(css/images/combo 2.jpg)
 }
 
 #churrascometro {
@@ -21,7 +21,7 @@
     padding: 15px;
     margin: auto;
     text-align: center;
-    background-image: url(/css/images/combo\ 1.jpg);
+    background-image: url(css/images/combo\ 1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 25px;
